@@ -1,7 +1,7 @@
 {
-    "id": "bigshottest",
-    "name": "Big Shot Testing",
-    "party": ["kris"],
-    
-    "encounter": "test"
+	"id": "bigshottest",
+	"name": "Big Shot Testing",
+	"party": ["kris"],
+
+	"encounter": "test"
 }
